@@ -82,27 +82,26 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Farhan Rangrez</h1>
+<h1 align="center">Hi I'm Farhan Rangrez</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | JavaScript Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Node+MongoDB+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Technologies" />
 </p>
+---
+
+## About Me
+
+-  Full Stack Developer with **1+ year experience**
+-  Specialized in **MERN Stack Development**
+-  Exploring **AI powered development tools**
+-  Focused on **scalable and performance based applications**
+
+ **Email:** farhanrangrez.dev@gmail.com
 
 ---
 
-## 👨‍💻 About Me
-
-- 💻 Full Stack Developer with **1+ year experience**
-- 🚀 Specialized in **MERN Stack Development**
-- 🧠 Exploring **AI powered development tools**
-- ⚡ Focused on **scalable and performance based applications**
-
-📫 **Email:** farhanrangrez.dev@gmail.com
-
----
-
-# 🚀 Tech Stack
+#  Tech Stack
 
 ### Frontend Development
 <p>
@@ -139,15 +138,15 @@ MongoDB • Prisma ORM
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Farhanrangrez-dev&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanrangrez-dev&theme=tokyonight" />
@@ -155,7 +154,7 @@ MongoDB • Prisma ORM
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhanrangrez-dev&theme=tokyo-night" />
@@ -163,9 +162,9 @@ MongoDB • Prisma ORM
 
 ---
 
-# 🌐 Portfolio
+#  Portfolio
 
-🚀 Portfolio Website  
+ Portfolio Website  
 (Add your portfolio link here)
 
 Example:
@@ -174,7 +173,7 @@ https://yourportfolio.com
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p>
 <a href="https://github.com/Farhanrangrez-dev">
