@@ -117,7 +117,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-MongoDB • Prisma ORM
+MongoDB •
 
 ---
 
@@ -137,9 +137,9 @@ MongoDB • Prisma ORM
 
 ---
 
-#  GitHub Stats
+<!--#  GitHub Stats
 
-<!-- <p align="center">
+ <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Farhanrangrez-dev&show_icons=true&theme=tokyonight" />
 </p> -->
 
