@@ -95,7 +95,7 @@
 -  Exploring **AI powered development tools**
 -  Focused on **scalable and performance based applications**
 
- **Email:** farhanrangrez.dev@gmail.com
+ **Email:** farhanrangrez.work@gmail.com
 
 ---
 
@@ -178,11 +178,11 @@ https://yourportfolio.com
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/farhanragrez">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:farhanrangrez.dev@gmail.com">
+<a href="mailto:farhanrangrez.work@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
