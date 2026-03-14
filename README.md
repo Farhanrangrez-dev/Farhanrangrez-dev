@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Farhan Rangrez</h1>
+<h3 align="center">Full Stack Developer | MERN Stack</h3>
 
-<!--
-**Farhanrangrez-dev/Farhanrangrez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Node+MongoDB+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Technologies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Full Stack Developer with **1 year experience**
+- 🚀 Working with **MERN Stack**
+- 🌱 Currently learning **Advanced React & System Design**
+- 📫 Email: **farhanrangrez.dev@gmail.com**
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,nextjs" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Farhanrangrez-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanrangrez-dev&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhanrangrez-dev&theme=tokyo-night" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/Farhanrangrez-dev">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:farhanrangrez.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
