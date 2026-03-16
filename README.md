@@ -153,31 +153,7 @@ GitHub, Firebase, Chrome DevTools, VS Code
 - REST APIs  
 - Agile Methodology  
 
----
 
-#  GitHub Stats
-
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Farhanrangrez-dev&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-#  GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanrangrez-dev&theme=tokyonight" />
-</p>
-
----
-
-#  Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhanrangrez-dev&theme=tokyo-night" />
-</p>
-
----
 
 #  Portfolio
 
@@ -193,7 +169,7 @@ https://yourportfolio.com
 #  Connect With Me
 
 <p>
-<!-- <a href="https://github.com/Farhanrangrez-dev">
+ <a href="https://github.com/Farhanrangrez-dev">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -202,6 +178,6 @@ https://yourportfolio.com
 </a>
 
 <a href="mailto:farhanrangrez.work@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" /> -->
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
