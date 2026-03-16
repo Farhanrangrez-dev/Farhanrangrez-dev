@@ -73,6 +73,34 @@
 <a href="mailto:farhanrangrez.dev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+
+
+---
+
+#  GitHub Stats
+
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Farhanrangrez-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+#  GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanrangrez-dev&theme=tokyonight" />
+</p>
+
+---
+
+#  Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhanrangrez-dev&theme=tokyo-night" />
+</p>
+
+---
 </p> -->
 
 
