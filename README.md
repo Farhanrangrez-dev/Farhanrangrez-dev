@@ -193,7 +193,7 @@ https://yourportfolio.com
 #  Connect With Me
 
 <p>
-<a href="https://github.com/Farhanrangrez-dev">
+<!-- <a href="https://github.com/Farhanrangrez-dev">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -202,6 +202,6 @@ https://yourportfolio.com
 </a>
 
 <a href="mailto:farhanrangrez.work@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" /> -->
 </a>
 </p>
