@@ -190,7 +190,7 @@ GitHub, Firebase, Chrome DevTools, VS Code
 
 Example:
 
-[https://yourportfolio.com](https://farhanrangrez-portfolio-j7hncc0e1.vercel.app)
+[https://farhanrangrez-portfolio.com](https://farhanrangrez-portfolio-j7hncc0e1.vercel.app)
 
 ---
 
