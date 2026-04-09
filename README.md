@@ -122,7 +122,7 @@
 
 ---
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h1 align="center">📊 Contribution Activity</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
