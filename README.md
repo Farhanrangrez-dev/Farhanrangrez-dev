@@ -145,6 +145,28 @@ solutions
 <p>
  <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
 </p>
+<div align="center">
+
+  <h1 align="center">🔗 Let's Connect 🔗</h1>
+
+  <a href="https://tryhackme.com/p/Kair0s" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Kair0s-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  </a>
+  <br>
+  <a href="https://github.com/oeisthename" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="Github" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/1087758455470837843" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:othmane.elmqiddem@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <br>
+</div>
 ---------------------------------------------
 ## 🤖 Real-Time, AI & Development Tools
 
@@ -330,25 +352,4 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 
 </div>
 <br>
-<div align="center">
 
-  <h1 align="center">🔗 Let's Connect 🔗</h1>
-
-  <a href="https://tryhackme.com/p/Kair0s" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Kair0s-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
-  </a>
-  <br>
-  <a href="https://github.com/oeisthename" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Github" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/1087758455470837843" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:othmane.elmqiddem@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <br>
-</div>
