@@ -131,10 +131,10 @@ solutions
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion" />
 </p>
-<h3>🌐 Web Development</h3>
+<h3>🌐 Frontend Development</h3>
 <p>
  <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
 </p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p> 
