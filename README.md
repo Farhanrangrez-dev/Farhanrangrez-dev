@@ -120,6 +120,91 @@ solutions
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+# 🚀 Tech Stack
+
+---
+
+## 🧠 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+---
+
+## 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions" />
+</p>
+
+---
+
+## 🛠️ Development Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,firebase" />
+</p>
+
+---
+
+## 💻 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
+
+---
+
+## 🎨 Design & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+---
+
+## 🤖 Real-Time, AI & Development Tools
+
+- Read.ai  
+- Cursor AI  
+- Windsurf AI  
+- Cloud Based Development Tools  
+- AI-Assisted Development  
+- Prompt Engineering  
+
+---
+
+## 🔧 Tools & Platforms
+
+- GitHub  
+- Firebase  
+- Chrome DevTools  
+- VS Code  
+
+---
+
+## 📌 Development Practices
+
+- REST APIs  
+- Agile Methodology  
+
 
 #  Tech Stack
 
