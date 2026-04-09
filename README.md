@@ -111,18 +111,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Node+MongoDB+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Technologies" />
 </p>
                                                     About Me
-                                                    
+                                                  
  MERN Stack Developer experienced in creating robust web and mobile applications, RESTful APIs, and
 responsive user interfaces with MongoDB, Express.js, React.js, and Node.js. Proficient in advanced JavaScript
 concepts, AI-driven development, and prompt engineering. Dedicated to delivering agile and user-focused
-solutions
-
- **Email:** farhanrangrez.work@gmail.com
-
----
+solutions 
 
 <h1 align="center">🧩 Contribution Activity 🧩</h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
