@@ -119,67 +119,67 @@ solutions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-# 🚀 Tech Stack
+<h2 align="center">🛠️ Skills 🛠️</h2>
 
 ---
 
-## 🧠 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,bash,matlab" />
 </p>
 
 ---
 
-## 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
+### 🖥️ Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,arch,windows" />
 </p>
 
 ---
 
-## ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
----
-
-## 🗄️ Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-<p>
+### ☁️ Cloud & DevOps
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions" />
 </p>
 
 ---
 
-## 🛠️ Development Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,firebase" />
+### 🛠️ Development Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,notion" />
 </p>
 
 ---
 
-## 💻 Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
 </p>
 
 ---
 
-## 🎨 Design & UI
-<p>
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+---
+
+### 🎨 Design & UI
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
 
+### ⚙️ Hardware & Specialized
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+
+
+---------------------------------------------
 ## 🤖 Real-Time, AI & Development Tools
 
 - Read.ai  
