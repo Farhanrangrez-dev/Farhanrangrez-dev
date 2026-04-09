@@ -117,7 +117,6 @@ solutions
 
 <h1 align="center">🧩 Contribution Activity 🧩</h1>
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <h1>🛠️ Skills 🛠️</h1>
@@ -137,7 +136,7 @@ solutions
  <p>
 <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
 </p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://reactnative.dev/img/header_logo.svg" width="48" />
 </p> 
 <h3>🗄️ Databases</h3>
 <p>
