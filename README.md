@@ -121,9 +121,7 @@ solutions
 </p>
 <h1>🛠️ Skills 🛠️</h1>
 <h2  >💻 Programming Languages</h2>
-<p >
   <img src="https://skillicons.dev/icons?i=python,java,c,js,bash,matlab" />
-</p>
 <h2  >🖥️ Operating Systems</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,arch,windows" />
