@@ -187,32 +187,13 @@ solutions
 ---
 
 ## 📌 Development Practices
-
 - REST APIs  
 - Agile Methodology  
+ 
 
-
-#  Tech Stack
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js" />
-### Cloud & DevOps
-<h2 align="center">☁️ Cloud & DevOps</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" />
-  <img src="https://skillicons.dev/icons?i=githubactions" />
-
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
-</p>
-### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-### Databases & Caching
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,prisma" />
-</p>
+ 
+ 
+ 
 
 ### Real-Time, AI & Development Tools
 
@@ -223,14 +204,7 @@ solutions
 - AI-Assisted Development  
 - Prompt Engineering  
 
----
-
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman," />
-</p>
-
-GitHub, Firebase, Chrome DevTools, VS Code
+ 
 
 ---
 
@@ -251,8 +225,7 @@ Example:
 [https://farhanrangrez-portfolio.com](https://farhanrangrez-portfolio-j7hncc0e1.vercel.app)
 
 ---
-
-#  Connect With Me
+ 
 
 <p>
  <a href="https://github.com/Farhanrangrez-dev">
