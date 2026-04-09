@@ -125,53 +125,32 @@ solutions
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,bash,matlab" />
 </p>
-
----
-
-### 🖥️ Operating Systems
+<h2 align="center">🖥️ Operating Systems</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,arch,windows" />
-</p>
-
----
-
-### ☁️ Cloud & DevOps
+</p> 
+<h2 align="center">☁️ Cloud & DevOps</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions" />
 </p>
-
----
-
-### 🛠️ Development Tools & IDEs
+<h2 align="center">Development Tools & IDEs</h2>
 <p align="center">
   <!-- EXACT MATCH LIKE IMAGE -->
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion" />
-</p>
-
----
-
-### 🌐 Web Development
+</p> 
+<h2 align="center">🌐 Web Development</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
-</p>
-
----
-
-### 🗄️ Databases
+</p> 
+<h2 align="center">🗄️ Databases</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,elasticsearch" />
-</p>
-
----
-
-### 🎨 Design & UI
+</p> 
+<h2 align="center">🎨 Design & UI</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
-</p>
-
----
-
-### ⚙️ Hardware & Specialized
+</p> 
+<h2 align="center">⚙️ Hardware & Specialized</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
