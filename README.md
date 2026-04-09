@@ -146,9 +146,7 @@ solutions
  <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
 </p>
 <div align="center">
-
-  <h3 align="center">🔗 Let's Connect 🔗</h3>
-
+  <h2 align="center">🔗 Let's Connect 🔗</h2>
   <a href="https://tryhackme.com/p/Kair0s" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Kair0s-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
   </a>
