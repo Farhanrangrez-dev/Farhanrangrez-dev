@@ -136,17 +136,13 @@ solutions
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind" />
    <img src="https://reactnative.dev/img/header_logo.svg" width="48" />
 </p>
-t<h3>🌐 Backend Developmen</h3>
+<h3>🌐 Backend Developmen</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
 </p>
 <h3>🗄️ Databases</h3>
 <p>
  <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
-</p>  
-<h2 align="center">⚙️ Hardware & Specialized</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 ---------------------------------------------
 ## 🤖 Real-Time, AI & Development Tools
