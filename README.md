@@ -126,7 +126,7 @@ solutions
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,firebase" />
 </p>
-<h3>Development Tools & IDEs</h3>
+<h3>🧠 Development Tools & IDEs</h3>
 <p>
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion" />
