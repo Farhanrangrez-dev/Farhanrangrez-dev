@@ -117,6 +117,7 @@ solutions
 
 <h1 align="center">🧩 Contribution Activity 🧩</h1>
 <p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <h1>🛠️ Skills 🛠️</h1>
