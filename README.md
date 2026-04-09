@@ -124,36 +124,19 @@ solutions
 #  Tech Stack
 
 ### Languages
-JavaScript (ES6+), HTML5, CSS3
-
----
-
+<img src="https://skillicons.dev/icons?i=JavaScript,HTML5,CSS3,materialui" /> 
 ### Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
 </p>
-
-React.js, Redux, React Native, Next.js, Shopify, Bootstrap, Material UI (MUI), Tailwind CSS
-
----
-
 ### Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
-Node.js, Express.js
-
----
-
 ### Databases & Caching
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
 </p>
-
-MongoDB, Prisma
-
----
 
 ### Real-Time, AI & Development Tools
 
