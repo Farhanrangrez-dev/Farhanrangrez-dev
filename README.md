@@ -106,12 +106,13 @@
 
 
 <h1 align="center">Hi I'm Farhan Rangrez</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | JavaScript Developer</h3>
+<h3 align="center">Full Stack Developer | MERN Stack </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Node+MongoDB+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Technologies" />
 </p>
                                                     About Me
+                                                    
  MERN Stack Developer experienced in creating robust web and mobile applications, RESTful APIs, and
 responsive user interfaces with MongoDB, Express.js, React.js, and Node.js. Proficient in advanced JavaScript
 concepts, AI-driven development, and prompt engineering. Dedicated to delivering agile and user-focused
