@@ -119,8 +119,8 @@ solutions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
-<h1>🛠️ Skills 🛠️</h1>
-<h3>💻 Programming Languages</h3>
+<h1>💻 Skills</h1>
+<h3>🛠 Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=python,js" />
 <h3> ☁️ Cloud & DevOps</h3>
 <p>
@@ -137,7 +137,7 @@ solutions
 <img src="https://cdn.simpleicons.org/shopify" width="48" />
  <img src="https://reactnative.dev/img/header_logo.svg" width="48" />
 </p>
-<h3>🌐 Backend Developmen</h3>
+<h3>⚙️ Backend Developmen</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
 </p>
