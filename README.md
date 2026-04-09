@@ -130,11 +130,6 @@ solutions
 <p>
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion" />
-  
-  <!-- Custom Icons -->
-  <img src="https://raw.githubusercontent.com/getcursor/cursor/main/assets/logo.png" height="48" alt="Cursor" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="48" alt="Windsurf" />
-  <img src="https://avatars.githubusercontent.com/u/163001013?s=200&v=4" height="48" alt="Trae" />
 </p>
 <h3>🌐 Web Development</h3>
 <p>
