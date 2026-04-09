@@ -132,12 +132,10 @@ solutions
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion" />
 </p>
 <h3>🌐 Frontend Development</h3>
-<p>
  <p>
-<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
+   <img src="https://reactnative.dev/img/header_logo.svg" width="48" />
 </p>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="48" />
-</p> 
 <h3>🗄️ Databases</h3>
 <p>
  <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
