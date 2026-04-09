@@ -133,16 +133,12 @@ solutions
 </p>
 <h3>🌐 Web Development</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p> 
-<h2 align="center">🗄️ Databases</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,elasticsearch" />
-</p> 
-<h2 align="center">🎨 Design & UI</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
-</p> 
+<h3>🗄️ Databases</h3>
+<p>
+ <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
+</p>  
 <h2 align="center">⚙️ Hardware & Specialized</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino" />
