@@ -126,7 +126,8 @@ solutions
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,js" />
 ### Cloud & DevOps
-  <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab" />
+<h2 align="center">☁️ Cloud & DevOps</h2>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" />
   <img src="https://skillicons.dev/icons?i=githubactions" />
 
 ### Frontend Development
