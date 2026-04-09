@@ -126,7 +126,7 @@ solutions
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,arch,windows" />
 </p> 
-☁️ Cloud & DevOps
+<h3> ☁️ Cloud & DevOps</h3>
 <p >
   <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions" />
 </p>
