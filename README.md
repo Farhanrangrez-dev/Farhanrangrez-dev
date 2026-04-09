@@ -146,7 +146,8 @@ solutions
 
 ### 🛠️ Development Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,notion" />
+  <!-- EXACT MATCH LIKE IMAGE -->
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion" />
 </p>
 
 ---
@@ -160,14 +161,14 @@ solutions
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,elasticsearch" />
 </p>
 
 ---
 
 ### 🎨 Design & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
 </p>
 
 ---
@@ -176,9 +177,6 @@ solutions
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
-
-
-
 ---------------------------------------------
 ## 🤖 Real-Time, AI & Development Tools
 
