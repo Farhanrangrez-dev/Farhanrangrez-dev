@@ -125,7 +125,7 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake.svg" />
 </p>
 
 
