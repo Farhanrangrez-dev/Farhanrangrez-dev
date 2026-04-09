@@ -124,7 +124,7 @@ solutions
 #  Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=JavaScript,HTML5,CSS3,materialui" /> 
+<img src="https://skillicons.dev/icons?i=javaScript,html5,css3,materialui" /> 
 ### Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
