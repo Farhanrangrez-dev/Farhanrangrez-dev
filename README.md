@@ -111,12 +111,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+Node+MongoDB+Developer;Building+Scalable+Web+Apps;Always+Learning+New+Technologies" />
 </p>
-## About Me
-
--  Full Stack Developer with **1+ year experience**
--  Specialized in **MERN Stack Development**
--  Exploring **AI powered development tools**
--  Focused on **scalable and performance based applications**
+                                                    About Me
+ MERN Stack Developer experienced in creating robust web and mobile applications, RESTful APIs, and
+responsive user interfaces with MongoDB, Express.js, React.js, and Node.js. Proficient in advanced JavaScript
+concepts, AI-driven development, and prompt engineering. Dedicated to delivering agile and user-focused
+solutions
 
  **Email:** farhanrangrez.work@gmail.com
 
