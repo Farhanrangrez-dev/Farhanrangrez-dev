@@ -121,14 +121,10 @@ solutions
 </p>
 <h1>🛠️ Skills 🛠️</h1>
 <h3>💻 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,bash,matlab" />
-<h3>🖥️ Operating Systems</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,arch,windows" />
-</p> 
+  <img src="https://skillicons.dev/icons?i=python,js" />
 <h3> ☁️ Cloud & DevOps</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" />
 </p>
 <h3>Development Tools & IDEs</h3>
 <p>
