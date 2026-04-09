@@ -120,7 +120,7 @@ solutions
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <h1>🛠️ Skills 🛠️</h1>
-<h2 align="center">💻 Programming Languages</h2>
+<h2  >💻 Programming Languages</h2>
 <p >
   <img src="https://skillicons.dev/icons?i=python,java,c,js,bash,matlab" />
 </p>
