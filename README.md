@@ -133,6 +133,9 @@ solutions
 </p>
 <h3>🌐 Web Development</h3>
 <p>
+ <p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind,materialui" />
+</p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p> 
 <h3>🗄️ Databases</h3>
