@@ -124,7 +124,7 @@ solutions
   <img src="https://skillicons.dev/icons?i=python,js" />
 <h3> ☁️ Cloud & DevOps</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,firebase" />
 </p>
 <h3>Development Tools & IDEs</h3>
 <p>
@@ -210,7 +210,7 @@ t<h3>🌐 Backend Developmen</h3>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman," />
 </p>
 
 GitHub, Firebase, Chrome DevTools, VS Code
