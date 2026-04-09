@@ -120,23 +120,22 @@ solutions
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <h1>🛠️ Skills 🛠️</h1>
-<h2>💻 Programming Languages</h2>
+<h3>💻 Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=python,java,c,js,bash,matlab" />
-<h2  >🖥️ Operating Systems</h2>
+<h3>🖥️ Operating Systems</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,arch,windows" />
 </p> 
 <h3> ☁️ Cloud & DevOps</h3>
-<p >
+<p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions" />
 </p>
-<h2 align="center">Development Tools & IDEs</h2>
-<p align="center">
-  <!-- EXACT MATCH LIKE IMAGE -->
+<h3>Development Tools & IDEs</h3>
+<p>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion" />
 </p> 
-<h2 align="center">🌐 Web Development</h2>
-<p align="center">
+<h3>🌐 Web Development</h3>
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
 </p> 
 <h2 align="center">🗄️ Databases</h2>
