@@ -119,11 +119,9 @@ solutions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
-<h2 align="center">🛠️ Skills 🛠️</h2>
+<h5 align="center">🛠️ Skills 🛠️</h5>
 
----
-
-### 💻 Programming Languages
+<h5 align="center">💻 Programming Languages</h5>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,bash,matlab" />
 </p>
