@@ -134,7 +134,7 @@ solutions
 <h3>🌐 Frontend Development</h3>
  <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,bootstrap,tailwind" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="48" />
+<img src="https://cdn.simpleicons.org/shopify" width="48" />
  <img src="https://reactnative.dev/img/header_logo.svg" width="48" />
 </p>
 <h3>🌐 Backend Developmen</h3>
