@@ -147,7 +147,7 @@ solutions
 </p>
 <div align="center">
 
-  <h1 align="center">🔗 Let's Connect 🔗</h1>
+  <h3 align="center">🔗 Let's Connect 🔗</h3>
 
   <a href="https://tryhackme.com/p/Kair0s" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Kair0s-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
