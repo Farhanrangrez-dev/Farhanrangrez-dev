@@ -160,6 +160,9 @@ solutions
   <a href="https://tryhackme.com/p/Kair0s" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Kair0s-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="PORTFOLIO" />
   </a>
+ <a href="https://farhanrangrezportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Farhan%20Rangrez-212C42?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PORTFOLIO" />
+</a>
   <br>
   <a href="https://github.com/Farhanrangrez-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Github" />
