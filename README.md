@@ -151,92 +151,48 @@ solutions
     <img src="https://img.shields.io/badge/TryHackMe-Kair0s-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
   </a>
   <br>
-  <a href="https://github.com/oeisthename" target="_blank">
+  <a href="https://github.com/Farhanrangrez-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Github" />
   </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/1087758455470837843" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+ <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
   </a>&nbsp;&nbsp;
-  <a href="mailto:othmane.elmqiddem@gmail.com" target="_blank">
+  <a href="mailto:othmane.farhanrangrez.work@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="_blank">
+  <a href="https://www.linkedin.com/in/farhanragrez" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <br>
 </div>
 ---------------------------------------------
-## 🤖 Real-Time, AI & Development Tools
 
-- Read.ai  
-- Cursor AI  
-- Windsurf AI  
-- Cloud Based Development Tools  
-- AI-Assisted Development  
-- Prompt Engineering  
-
----
-
-## 🔧 Tools & Platforms
-
-- GitHub  
-- Firebase  
-- Chrome DevTools  
-- VS Code  
-
+ 
 ---
 
 ## 📌 Development Practices
-- REST APIs  
-- Agile Methodology  
- 
-
- 
- 
- 
-
-### Real-Time, AI & Development Tools
-
-- Read.ai  
-- Cursor AI  
-- Windsurf AI  
-- Cloud based development tools  
-- AI-Assisted Development  
-- Prompt Engineering  
-
- 
-
----
-
-### Development Practices
-
 - REST APIs  
 - Agile Methodology  
 
 
 
 #  Portfolio
-
- Portfolio Website  
-(Add your portfolio link here)
-
 Example:
-
 [https://farhanrangrez-portfolio.com](https://farhanrangrez-portfolio-j7hncc0e1.vercel.app)
 
 ---
  
-
 <p>
- <a href="https://github.com/Farhanrangrez-dev">
+ <a href="">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/farhanragrez">
+<a href="">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:farhanrangrez.work@gmail.com">
+<a href="mailto:">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
