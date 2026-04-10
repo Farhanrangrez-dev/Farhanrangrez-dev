@@ -145,6 +145,21 @@ solutions
 <p>
  <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
 </p>
+<h3>🤖 Real-Time, AI & Development Tools</h3>
+
+<p>
+  <!-- Available icons -->
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,postman" />
+</p>
+
+<p>
+  <!-- AI Tools (Custom Badges) -->
+  <img src="https://img.shields.io/badge/Read.ai-000000?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf_AI-000000?style=for-the-badge&logo=wave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Development-4CAF50?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
 <div align="center">
   <h2 align="center">🔗 Let's Connect 🔗</h2>
   <a href="https://tryhackme.com/p/Kair0s" target="_blank">
