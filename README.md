@@ -175,34 +175,3 @@ solutions
   </a>
   <br>
 </div>
----------------------------------------------
-
- 
----
-
-## 📌 Development Practices
-- REST APIs  
-- Agile Methodology  
-
-
-
-#  Portfolio
-Example:
-[https://farhanrangrez-portfolio.com](https://farhanrangrez-portfolio-j7hncc0e1.vercel.app)
-
----
- 
-<p>
- <a href="">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
