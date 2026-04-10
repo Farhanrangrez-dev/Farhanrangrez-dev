@@ -119,7 +119,7 @@ solutions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farhanrangrez-dev/Farhanrangrez-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
-<h1>💻 Skills</h1>
+<h2>💻 Languages and Tools</h2>
 <h3>🛠 Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=python,js" />
 <h3> ☁️ Cloud & DevOps</h3>
