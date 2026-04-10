@@ -154,11 +154,10 @@ solutions
   <a href="https://github.com/Farhanrangrez-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Github" />
   </a>&nbsp;&nbsp;
- <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+ <a href="https://www.instagram.com/farhan__rangrez_/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-  </a>&nbsp;&nbsp;
-  <a  href="mailto:farhanrangrez.work@gmail.com" target="_blank">
+</a> &nbsp;&nbsp;
+  <a  mailto:farhanrangrez.work@gmail.com target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/farhanragrez" target="_blank">
