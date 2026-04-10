@@ -167,7 +167,7 @@ solutions
  <a href="https://www.instagram.com/farhan__rangrez_/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a> &nbsp;&nbsp;
-  <a  href="mailto:farhanrangrez.dev@gmail.com">
+  <a  href="farhanrangrez.work@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/farhanragrez" target="_blank">
