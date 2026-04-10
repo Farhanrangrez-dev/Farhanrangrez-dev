@@ -146,14 +146,9 @@ solutions
  <img src="https://skillicons.dev/icons?i=mongodb,prisma" />
 </p>
 <h3>🤖 Real-Time, AI & Development Tools</h3>
-
-<p>
-  <!-- Available icons -->
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,postman" />
-</p>
-
 <p>
   <!-- AI Tools (Custom Badges) -->
+ <img src="https://img.shields.io/badge/Trae_AI-1E90FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
   <img src="https://img.shields.io/badge/Read.ai-000000?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf_AI-000000?style=for-the-badge&logo=wave&logoColor=white" />
