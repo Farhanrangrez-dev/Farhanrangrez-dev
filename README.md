@@ -158,7 +158,7 @@ solutions
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
   </a>&nbsp;&nbsp;
-  <a href="mailto:othmane.farhanrangrez.work@gmail.com" target="_blank">
+  <a  href="mailto:farhanrangrez.work@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/farhanragrez" target="_blank">
